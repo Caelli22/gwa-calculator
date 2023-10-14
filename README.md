@@ -1,4 +1,11 @@
 # gwa-calculator
 Basic simple general weighted average calculator using python.
 
-<h2>How to use</h2>
+### Installation
+
+* git clone https://github.com/Caelli22/gwa-calculator.git
+* cd gwa-calculator
+
+# How to use
+
+* python main.py
